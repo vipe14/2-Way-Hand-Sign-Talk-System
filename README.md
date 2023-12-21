@@ -1,1 +1,4 @@
 # 2-Way-Hand-Sign-Talk-System
+
+Our project serves as a pivotal solution toward closing the massive communication gap that exists between the hearing and non-hearing communities. The need for effective hand sign communication is critical for deaf and mute people because it is the foundation of their capacity to express, connect, and comprehend in a society dominated by spoken language.
+By focusing on hand sign communication, we hope to empower the deaf and mute communities by providing them with a global means of communication. Sign language is more than just a medium of communication for them; it is a crucial component of their identity and a gateway to knowledge, education, and social inclusion. Our project recognizes the importance of sign language communication in molding people's interactions, relationships, and general quality of life.
